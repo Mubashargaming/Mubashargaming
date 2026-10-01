@@ -1,15 +1,26 @@
 # Hi, I'm Mubashir 👋
 
 💻 Frontend Developer  
-🚀 Learning Node.js & Backend Development
+🚀 Currently learning Node.js & Backend Development
 
-## Skills
+## 🛠️ Skills
 
-HTML • CSS • JavaScript • Node.js
+- HTML
+- CSS
+- JavaScript
+- Node.js
 
-## Projects
+## 🚀 Projects
 
-🎵 Spotify Clone  
-✅ To-Do App  
-🌐 Developer Portfolio  
-🧰 MC Server Checker
+- 🎵 Spotify Clone
+- ✅ To-Do App
+- 🌐 Developer Portfolio
+- 🧰 MC Server Checker
+
+## 📚 Currently Learning
+
+Node.js • Express.js • REST APIs • MongoDB
+
+## 📫 Connect With Me
+
+[GitHub](https://github.com/Mubashargaming)
